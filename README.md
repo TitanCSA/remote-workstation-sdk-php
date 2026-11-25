@@ -1,5 +1,11 @@
 # Remote-Workstation-SDK PHP SDK
 
+<!-- simple-start:start -->
+Use Remote-Workstation-SDK from a PHP app.
+
+**Start here.** Run `composer require titancsa/remote-workstation-sdk`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
